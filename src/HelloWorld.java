@@ -10,5 +10,6 @@ public class HelloWorld {
         Class1 Sasha = new Class1("Sasha",20,2,196);
         System.out.println(obj.toString());
         System.out.println(Sasha.toString());
+        System.out.println("Освоил гит!");
     }
 }
